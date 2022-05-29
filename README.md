@@ -8,7 +8,7 @@ I am an Electronic Engineer with a passion for Data Engineering, Software Engine
 
 🧰 Arsenal:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="azure" height="50" width="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" height="50", width="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50", width="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s" height="50", width="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" height="50", width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="azure" height="50" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" height="50", width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50", width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s" height="50", width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" height="50", width="50"/>
 
 
 
