@@ -1,5 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>, I am Rick. Welcome to my Github!
 
+I am an Electronic Engineer with a passion for Data Engineering, Software Engineering and IoT. I am currently working as a DevOps Engineer and creating some fun things on the side.
+
+---
+
+🧰 Arsenal:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="azure" height="50" width="50">
+
 <!--
 **Rick-PrometheusProj/Rick-PrometheusProj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
